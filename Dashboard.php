@@ -170,13 +170,13 @@
                         <div id="about-me" class="section-title">
                             <h2>About Me</h2>
                         </div>
-                        <p><?php echo "Sudani Aarvi" ?></p>
+                        <p><?php echo "Sudani Aarvi C" ?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="my-skillset" class="section-title">
                             <h2>My Skillset</h2>
                         </div>
-                        <p><?php echo "B.C.A","python devoloper","java developer" ?></p>
+                        <p><?php echo "B.C.A","Python devoloper","Java developer" ?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="assignments" class="section-title">
